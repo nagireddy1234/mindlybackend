@@ -1,0 +1,13 @@
+package com.mindly;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MindlyBackEndApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MindlyBackEndApplication.class, args);
+	}
+
+}
